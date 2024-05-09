@@ -26,7 +26,7 @@ Este projeto consiste em um sistema de monitoramento ambiental desenvolvido para
 
 O sensor DHT11 foi conectado ao Arduino Uno para realizar as medições de temperatura e umidade. O display LCD foi integrado ao Arduino para exibir as informações coletadas pelo sensor. Os LEDs foram utilizados para alertar visualmente em caso de condições críticas no ambiente.
 
-A programação em linguagem C no Arduino foi essencial para controlar todos os componentes e garantir o funcionamento correto do sistema. Foram realizados testes para calibrar as escalas das unidades e, com isso, aumentar a precisão dos intervalos numéricos no código.
+A programação em linguagem C no Arduino foi essencial para controlar todos os componentes e garantir o funcionamento correto do sistema. O código foi documentado por meio de comentários no próprio algoritmo. Foram realizados testes para calibrar as escalas das unidades e, com isso, aumentar a precisão dos intervalos numéricos no código.
 
 ### Como Utilizar
 
