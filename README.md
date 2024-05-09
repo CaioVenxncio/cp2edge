@@ -36,6 +36,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do proje
 
 Esperamos que este projeto seja útil para a Vinheria e estamos disponíveis para futuras colaborações.
 
+### Demonstração
+
+Abaixo, vídeo exibindo o código e o sistema:
 
 https://github.com/CaioVenxncio/cp2edge/assets/161903325/b8a0bea9-dc8b-4f41-b454-6134b9d34b3d
 
