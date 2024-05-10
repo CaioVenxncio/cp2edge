@@ -10,6 +10,17 @@
 - *David Cordeiro* (RM: 557538)
 - *Tiago Morais* (RM: 555619)
 
+### Protótipo
+
+Abaixo, link do protótipo feito no Wokwi:
+
+https://wokwi.com/projects/397154685388460033
+
+### Apresentação
+
+Vídeo Showcase do projeto:
+
+https://www.loom.com/share/08bde02dc8e8480bb432de9826cb21d8?sid=64c9a53c-f228-4de8-95ac-5bfa47a2ed30
 
 ### Descrição
 
