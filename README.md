@@ -44,6 +44,35 @@ Abaixo, vídeo exibindo o código e o sistema:
 
 https://github.com/CaioVenxncio/cp2edge/assets/161903325/b8a0bea9-dc8b-4f41-b454-6134b9d34b3d
 
+### Sistema Monitorador de Temperatura, luminosidade e Umidade, com fornecimento de dados em uma tela LCD
+
+### Materiais Utilizados:
+
+- Arduino UNO
+- Breadboard
+- RTC DS1307
+- Tela LCD 16X2
+- LED's (verde, amarelo, vermelho)
+- Sensor DHT22 (sensor de umidade)
+- Sensor LDR (sensor de luminosidade)
+- Buzzer
+- Resistores
+- Cabos Jumper
+
+### Funções do Sistema:
+
+- LED verde precisa estar ligado quando tudo estiver OK (luminoside, umidade e temperatura).
+- A tela precisa mostrar a mensagem "Ambiente a meia luz", quando o LED amarelo ligar.
+- Enquanto a temperatura estiver fora da faixa ideal, o LED amarelo precisa acender e o buzzer soar continuamente. 
+- Enquanto a temperatura estiver fora do ideal, a tela deve aparecer "temperatura alta" ou "temperatura baixa" e mostrar o valor da temperatura.
+- O buzzer também precisa soar, quando o LED vermelho ligar (soar continuamente).
+- A tela precisa mostrar a mensagem "Ambiente muito claro", quando o LED vermelho ligar.
+- Enquanto o ambiente estiver com temperatura entre 10°C e 15°C, a tela precisa mostrar "temperatura OK" e o valor da temperatura.
+- Enquanto o ambiente estiver com a umidade entre 50% e 70%, a tela precisa mostrar "umidade OK" e o valor umidade.
+- Os valores apresentados na tela precisam ser a média de pelo menos 5 valores medidos, mostrando a média a cada 5s.
+- Enquanto a umidade estiver fora do ideal o LED vermelho deve acender e soar o buzzer (continuamente).
+- Enquanto a umidade estiver fora da faixa ideal, a tela precisa mostrar "umidade baixa" ou "umidade alta" e mostrar os valores.
+
 
 
 
