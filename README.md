@@ -1,6 +1,6 @@
 # cp2edge
 
-## Projeto de Monitoramento Ambiental para Vinheria Agnello
+## Projeto de Monitoramento Ambiental para a Vinheria Agnello
 
 ### Equipe
 
