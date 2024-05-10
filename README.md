@@ -41,7 +41,7 @@ A programação em linguagem C no Arduino foi essencial para controlar todos os 
 
 ### Como Utilizar
 
-Para utilizar o sistema, basta ligar o Arduino e acompanhar as informações exibidas no display LCD e nos LEDs. Caso haja alguma condição crítica de temperatura, umidade ou luminosidade, os LEDs irão alertar visualmente e o buzzer alertará de forma sonora.
+Para utilizar o sistema, basta ligar o Arduino Uno e acompanhar as informações exibidas no display LCD e nos LEDs. Caso haja alguma condição crítica de temperatura, umidade ou luminosidade, os LEDs irão alertar visualmente e o buzzer alertará de forma sonora.
 
 ### Contribuições
 
@@ -49,13 +49,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do proje
 
 Esperamos que este projeto seja útil para a Vinheria e estamos disponíveis para futuras colaborações.
 
-### Demonstração
+### Exibição do código
 
 Abaixo, vídeo exibindo o código e o sistema:
 
 https://github.com/CaioVenxncio/cp2edge/assets/161903325/b8a0bea9-dc8b-4f41-b454-6134b9d34b3d
 
-### Sistema Monitorador de Temperatura, luminosidade e Umidade, com fornecimento de dados em uma tela LCD
+### Sistema Monitorador de temperatura, luminosidade e umidade, com fornecimento de dados em uma tela LCD
 
 ### Materiais Utilizados:
 
