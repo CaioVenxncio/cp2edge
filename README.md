@@ -12,7 +12,7 @@
 
 ### Protótipo
 
-Abaixo, link do protótipo feito no Wokwi:
+Link do protótipo feito no Wokwi:
 
 https://wokwi.com/projects/397154685388460033
 
