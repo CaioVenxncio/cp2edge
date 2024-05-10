@@ -82,13 +82,8 @@ https://github.com/CaioVenxncio/cp2edge/assets/161903325/b8a0bea9-dc8b-4f41-b454
 - Enquanto o ambiente estiver com a umidade entre 50% e 70%, a tela precisa mostrar "umidade OK" e o valor umidade.
 - Os valores apresentados na tela precisam ser a média de pelo menos 5 valores medidos, mostrando a média a cada 5s.
 - Enquanto a umidade estiver fora do ideal o LED vermelho deve acender e soar o buzzer (continuamente).
-- Enquanto a umidade estiver fora da faixa ideal, a tela precisa mostrar "umidade baixa" ou "umidade alta" e mostrar os valores.
-
-
-
-
-
-
+- Enquanto a umidade estiver fora da faixa ideal, a tela precisa mostrar "umidade baixa" ou "umidade alta" e mostrar os valores. 
+<br>
 Obrigado por utilizar nosso sistema de monitoramento ambiental!
 
 
